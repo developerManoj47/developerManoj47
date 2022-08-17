@@ -5,9 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://developermanoj47.github.io/manojProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverflow.c/users/3687251/aakash-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Hello i am Manoj bhatt, a final year student of Computer science and engineering in Government Polytechnic College,Jodhpur.
+I like to learn and know such things which are logical, creative, interesting and fun. That's why i had chosen computer science and engineering branch and i am learning full stack development nowdays form edureka.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/developerManoj47/count.svg)
