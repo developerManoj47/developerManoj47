@@ -3,9 +3,10 @@
 <!--
 [![YouTube Badge](https://img.shields.io/badge/YouTube-developerManoj47-red)](https://www.youe.com/developerfunnel) 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverfw.c/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://developermanoj47.github.io/manojProfile/)
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfmanoj/)](https://www.linkedin.com/in/myselfmanoj/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://developermanoj47.github.io/manojProfile/)
+
 
 
 I'm Manoj Bhatt, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently in my 2nd year of pursuing a B.E. at Mugneeram Bangur Memorial University (MBM University).
