@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverfw.c/users/3687251/aakash-)
 [![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://developermanoj47.github.io/manojProfile/)
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfmanoj/)](https://www.linkedin.com/in/myselfmanoj/)
+
 
 
 
@@ -15,7 +15,7 @@ I'm Manoj Bhatt, a passionate Full Stack Developer specializing in the MERN (Mon
 
 🚀 Explore my repositories to see some of the projects I've been working on. Always open to collaboration and eager to contribute to exciting projects. Let's connect and build something awesome together!
 
-📫 Reach out to me via LinkedIn .
+📫 Reach out to me via LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfmanoj/)](https://www.linkedin.com/in/myselfmanoj/) .
 
 Happy coding! 🚀
 
