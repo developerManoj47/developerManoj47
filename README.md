@@ -9,7 +9,7 @@
 
 
 
-I'm Manoj Bhatt, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently in my 2nd year of pursuing a B.E. at Mugneeram Bangur Memorial University (MBM University).
+I'm Manoj Bhatt, a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently in my 2nd year of pursuing B.E. in Computer science and engineering from Mugneeram Bangur Memorial University (MBM University) | 2026.
 
 💻 I love turning ideas into reality through code and enjoy working on both the front-end and back-end aspects of web development. My journey in technology is driven by a curiosity to learn and a commitment to creating efficient and user-friendly applications.
 
